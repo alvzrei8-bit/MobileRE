@@ -13,3 +13,4 @@ Sometimes have empty files when outputting
 
 Might be inaccurate, if so please double check using IDA PRO or Ghidra
 
+idk what mobilere (C++) is doing in the folder, probably from old version 
